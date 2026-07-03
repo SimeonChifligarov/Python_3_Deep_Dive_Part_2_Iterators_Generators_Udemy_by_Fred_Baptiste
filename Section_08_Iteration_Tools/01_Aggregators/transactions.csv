@@ -1,0 +1,9 @@
+id,account,amount,currency,status
+1,A100,250.50,USD,posted
+2,A100,-10.25,USD,posted
+3,A200,999.99,EUR,pending
+4,A200,-1200.00,EUR,posted
+5,A300,0.00,USD,failed
+6,A100,75.00,USD,posted
+7,A400,5000.00,GBP,posted
+8,A400,-4999.99,GBP,posted
