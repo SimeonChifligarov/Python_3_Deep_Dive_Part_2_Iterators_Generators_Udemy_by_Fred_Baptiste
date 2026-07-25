@@ -1,0 +1,32 @@
+Car;MPG;Cylinders;Displacement;Horsepower;Weight;Acceleration;Model;Origin
+Chevrolet Chevelle Malibu;18.0;8;307.0;130.0;3504.;12.0;70;US
+Buick Skylark 320;15.0;8;350.0;165.0;3693.;11.5;70;US
+Plymouth Satellite;18.0;8;318.0;150.0;3436.;11.0;70;US
+AMC Rebel SST;16.0;8;304.0;150.0;3433.;12.0;70;US
+Ford Torino;17.0;8;302.0;140.0;3449.;10.5;70;US
+Ford Galaxie 500;15.0;8;429.0;198.0;4341.;10.0;70;US
+Chevrolet Impala;14.0;8;454.0;220.0;4354.;9.0;70;US
+Chevrolet Monte Carlo;15.0;8;400.0;150.0;3761.;9.5;70;US
+Toyota Corolla;31.0;4;71.0;65.0;1773.;19.0;71;Japan
+Datsun 510;27.0;4;97.0;88.0;2130.;14.5;71;Japan
+Volkswagen 1131 Deluxe Sedan;26.0;4;97.0;46.0;1835.;20.5;70;Europe
+Peugeot 504;25.0;4;110.0;87.0;2672.;17.5;70;Europe
+Audi 100 LS;24.0;4;107.0;90.0;2430.;14.5;70;Europe
+Saab 99e;25.0;4;104.0;95.0;2375.;17.5;70;Europe
+BMW 2002;26.0;4;121.0;113.0;2234.;12.5;70;Europe
+Chevrolet Vega 2300;28.0;4;140.0;90.0;2264.;15.5;71;US
+Ford Pinto;25.0;4;98.0;;2046.;19.0;71;US
+AMC Gremlin;21.0;6;199.0;90.0;2648.;15.0;70;US
+Mazda RX-3;18.0;3;70.0;90.0;2124.;13.5;73;Japan
+Renault 12;26.0;4;96.0;69.0;2189.;18.0;72;Europe
+Dodge Colt;28.0;4;90.0;75.0;2125.;14.5;74;US
+Volvo 244DL;22.0;4;121.0;98.0;2945.;14.5;75;Europe
+Honda Civic;33.0;4;91.0;53.0;1795.;17.4;76;Japan
+Chevrolet Monte Carlo S;15.0;8;350.0;145.0;4082.;13.0;73;US
+Chevrolet Monte Carlo Landau;15.5;8;350.0;170.0;4165.;11.4;77;US
+Honda Accord LX;29.5;4;98.0;68.0;2135.;16.6;78;Japan
+Chevrolet Monte Carlo Landau;19.2;8;305.0;145.0;3425.;13.2;78;US
+Mercedes-Benz 240d;30.0;4;146.0;67.0;3250.;21.8;80;Europe
+Subaru GL;33.8;4;97.0;67.0;2145.;18.0;80;Japan
+Toyota Celica GT;32.0;4;144.0;96.0;2665.;13.9;82;Japan
+Honda Civic;33.0;4;91.0;53.0;1795.;17.4;76;Japan
