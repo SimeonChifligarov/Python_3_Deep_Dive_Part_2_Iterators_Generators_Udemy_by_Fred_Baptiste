@@ -1,0 +1,21 @@
+{
+  "input_rows_including_invalid": 244,
+  "valid_rows": 240,
+  "parse_issues": 4,
+  "unique_valid_vins": 235,
+  "duplicates_dropped": 5,
+  "routes": {
+    "pink": 33,
+    "ford_green": 2,
+    "older_than_1990": 100,
+    "unmatched": 115
+  },
+  "metrics": {
+    "name": "normalize",
+    "received": 235,
+    "emitted": 235,
+    "dropped": 0,
+    "failed": 0,
+    "elapsed_seconds": 0.006226199679076672
+  }
+}
